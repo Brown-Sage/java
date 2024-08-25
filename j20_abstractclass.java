@@ -4,7 +4,7 @@ abstract class a{
    }
    abstract public void dk();
 }
-class b extends a{
+class j20_abstractclass extends a{
    public void dk(){
       System.out.println("class a ka abstract method hun me");
    }

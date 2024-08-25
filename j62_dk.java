@@ -1,4 +1,4 @@
-class thr1 extends Thread{
+class j62_dk extends Thread{
     public thr1(String name){
         super(name);
     }
@@ -8,7 +8,7 @@ class thr1 extends Thread{
         }
     }
 }
-class dk {
+class j62_dk {
     public static void main(String[] args) {
         thr1 t1 = new thr1("Aaryan");
         thr1 t2 = new thr1("mayank");

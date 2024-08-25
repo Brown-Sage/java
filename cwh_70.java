@@ -1,4 +1,4 @@
-class MyThread1 extends Thread{
+class cwh_70 extends Thread{
     @Override
     public void run(){
         int i =0;
@@ -10,7 +10,7 @@ class MyThread1 extends Thread{
     }
 }
 
-class MyThread2 extends Thread{
+class cwh_70 extends Thread{
     @Override
     public void run(){
         int i =0;

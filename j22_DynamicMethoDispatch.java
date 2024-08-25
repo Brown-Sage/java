@@ -1,4 +1,4 @@
-class phone{
+class j22_DynamicMethoDispatch{
     public void on(){
         System.out.println("turning on phone....");
     }
@@ -7,7 +7,7 @@ class phone{
         System.out.println("turning off the phone....");
     }
 }
-class smartphone extends phone{
+class j22_DynamicMethoDispatch extends phone{
     @Override
     public void on(){
         System.out.println("turning on the smartphone....");

@@ -1,4 +1,4 @@
-class random2{
+class j35_random2{
 
     public static void main(String args[]){
         System.out.println("enter two number ");

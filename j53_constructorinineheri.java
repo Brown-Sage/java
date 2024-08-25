@@ -1,4 +1,4 @@
-class animal{
+class j53_constructorinineheri{
     animal(){
         System.out.println("i am the legendary constuctor bitch");
     }
@@ -6,7 +6,7 @@ class animal{
         System.out.println("fark nhi padta pucha bhi nhi");
     }
 }
-class dog extends animal{
+class j53_constructorinineheri extends animal{
     dog(){
         System.out.println("i am the child of animal class");
     }
@@ -15,7 +15,7 @@ class dog extends animal{
     System.out.println("i am the overloaded dog cons.");
     }
 }
-class kutta extends dog{
+class j53_constructorinineheri extends dog{
     kutta(){
         System.out.println("i am the child of dog and grand child of animal");
     }

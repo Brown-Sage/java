@@ -1,4 +1,4 @@
-class animal{
+class j45_random13{
     public int x;
     public int getX(){
         return x;

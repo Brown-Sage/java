@@ -1,4 +1,4 @@
-public class method3 {
+public class j15_method3 {
     static int logic(int x, int y){
         int z ;
         if(x>y){

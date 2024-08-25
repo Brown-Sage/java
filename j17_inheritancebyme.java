@@ -1,4 +1,4 @@
-class animal{
+class j17_inheritancebyme{
     public int a;
    int getX(){
     return a;
@@ -7,7 +7,7 @@ class animal{
    this.a=a;
     }
 }
-class cat extends animal{
+class j17_inheritancebyme extends animal{
     public int y;
     public int getY(){
         return y;

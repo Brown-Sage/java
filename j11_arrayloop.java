@@ -1,6 +1,6 @@
 import javax.lang.model.element.Element;
 
-public class arrayloop {
+public class j11_arrayloop {
     public static void main(String[] args) {
         int[] marks = {100,98,40,69,65,91};
         System.out.println(marks.length + " this the the total arrays");        //marks.length is used to know the total entity

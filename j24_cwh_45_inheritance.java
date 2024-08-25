@@ -1,4 +1,4 @@
-class Base{
+class j24_cwh_45_inheritance{
     public int x;
 
     public int getX() {
@@ -13,7 +13,7 @@ class Base{
    
 }
 
-class Derived extends Base{
+class j24_cwh_45_inheritance extends Base{
     public int y;
 
     public int getY() {

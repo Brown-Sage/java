@@ -1,4 +1,4 @@
-class MyThr extends Thread{
+class j29_cwh_73_thread_constructor extends Thread{
     public MyThr(String name){
         super(name);
     }

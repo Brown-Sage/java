@@ -1,4 +1,4 @@
-public class continueinloop {
+public class j8_continueinloop {
     public static void main(String[] args) {
         int i=1;
         do{
