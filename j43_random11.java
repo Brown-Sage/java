@@ -2,7 +2,7 @@ public class random11{
     public static void main(String[] args) {
         
     
-class j43_random11{
+class getset{
     String name;
     public String getname(){
         return name;

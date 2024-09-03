@@ -5,7 +5,7 @@ public class college {
         }
         abstract public void dk();
      }
-class j54_college extends a{
+     class b extends a{
         public void dk(){
            System.out.println("class a ka abstract method hun me");
         }
@@ -20,7 +20,7 @@ class j54_college extends a{
         }
      }
 
-class j54_college{
+     class Baserandom{
         public int x;
     
         public int getX() {
@@ -36,14 +36,14 @@ class j54_college{
             System.out.println("I am a constructor");
         }
     }
-class j54_college{
+    class base{
      public static void main(String[] args) {
             Baserandom b = new Baserandom();
             b.setX(23);
             System.out.println(b.getX());
         }
     }
-class j54_college{
+    class Baserandom{
         public int x;
     
         public int getX() {
@@ -59,14 +59,14 @@ class j54_college{
             System.out.println("I am a constructor");
         }
     }
-class j54_college{
+    class base{
      public static void main(String[] args) {
             Baserandom b = new Baserandom();
             b.setX(23);
             System.out.println(b.getX());
         }
     }
-class j54_college{
+    class Baserandom{
         public int x;
     
         public int getX() {
@@ -82,7 +82,7 @@ class j54_college{
             System.out.println("I am a constructor");
         }
     }
-class j54_college{
+    class base{
      public static void main(String[] args) {
             Baserandom b = new Baserandom();
             b.setX(23);

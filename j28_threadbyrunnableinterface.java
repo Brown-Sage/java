@@ -1,4 +1,4 @@
-class j28_threadbyrunnableinterface implements Runnable{
+class a implements Runnable{
     public void run(){
     System.out.println("i am class a");
     }

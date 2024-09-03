@@ -17,12 +17,12 @@ interface speaker{
     void connectspeaker();
     void producesound();
 }
-class j23_polymorphismininterfaces {
+class call {
     void calling(){
         System.out.println("we are calling......");
     }
 }
-class j23_polymorphismininterfaces extends call implements wifi,gps,speaker{
+class smartphone extends call implements wifi,gps,speaker{
     public void getnetwork(){
         System.out.println("trying to get network");
     }

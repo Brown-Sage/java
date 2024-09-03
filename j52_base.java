@@ -1,5 +1,5 @@
 
-class j52_base{
+class Baserandom{
     public int x;
 
     public int getX() {
@@ -15,7 +15,7 @@ class j52_base{
         System.out.println("I am a constructor");
     }
 }
-class j52_base{
+class base{
  public static void main(String[] args) {
         Baserandom b = new Baserandom();
         b.setX(23);

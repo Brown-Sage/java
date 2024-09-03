@@ -15,7 +15,7 @@ interface MyWifi2{
     void connectToNetwork(String network);
 }
 
-class j25_cwh_59_polymorphism{
+class MyCellPhone2{
     void callNumber(int phoneNumber){
         System.out.println("Calling "+ phoneNumber);
     }
@@ -25,7 +25,7 @@ class j25_cwh_59_polymorphism{
 
 }
 
-class j25_cwh_59_polymorphism extends MyCellPhone2 implements MyWifi2, MyCamera2{
+class MySmartPhone2 extends MyCellPhone2 implements MyWifi2, MyCamera2{
     public void takeSnap(){
         System.out.println("Taking snap");
     }

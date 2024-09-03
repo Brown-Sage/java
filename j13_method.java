@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class j13_method {
+public class method {
     static int logic(int x, int y){
        int z;
        if(x>y){

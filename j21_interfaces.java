@@ -2,7 +2,7 @@ interface a{
     void dc();
     void da();
 }
-class j21_interfaces implements a{
+class b implements a{
     public void dc(){
         System.out.println("frk nhi padta ");
     }
@@ -11,7 +11,7 @@ class j21_interfaces implements a{
     }
 
 }
-class j21_interfaces {
+class interfaces {
     public static void main(String[] args) {
         b A = new b();
         A.dc();

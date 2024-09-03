@@ -1,4 +1,4 @@
-class j26_multithreading extends Thread{
+class thread1 extends Thread{
     @Override
     public void run(){                //run is a special method in java in Thread class(ig)
      int a = 1;
@@ -8,7 +8,7 @@ class j26_multithreading extends Thread{
     }
   }
 }
-class j26_multithreading extends Thread{
+class thread2 extends Thread{
     @Override 
     public void run(){
         int b = 1;

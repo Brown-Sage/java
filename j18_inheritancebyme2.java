@@ -1,4 +1,4 @@
-class j18_inheritancebyme2{
+class human{
     int x;
     public int getX(){
         return x;
@@ -7,7 +7,7 @@ class j18_inheritancebyme2{
         this.x=x;
     }
 }
-class j18_inheritancebyme2 extends human{         //we use this format for child class class <subclass> extends <parentclass>
+class woman extends human{         //we use this format for child class class <subclass> extends <parentclass>
     public int y;
     public int getY(){
         return y;

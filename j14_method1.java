@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class j14_method1 {
+public class method1 {
     static int logic(int a, int b){   
         int c ;
         if(a>b){
